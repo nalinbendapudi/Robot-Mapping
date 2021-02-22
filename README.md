@@ -10,7 +10,7 @@ To see the derivations and implementation details, look at https://github.com/na
 
 ## Usage Instructions
 
-In MATLAB, enter the command: `run(mapping_type, true)'. Here `mapping_type' is either 1,2,3,or 4 according to the order in which they are mentioned above
+In MATLAB, enter the command: `run(mapping_type, true)`. Here, `mapping_type` is either `1`,`2`,`3`,or `4` according to the order in which they are mentioned above
 
 ## Results
 
