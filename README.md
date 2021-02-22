@@ -28,6 +28,6 @@ Continuous Occupancy-Grid Map
 
 Discrete Semantic Map
 
-![](https://github.com/nalinbendapudi/Robot-Mapping/blob/master/2.%20Continuous_Semantic_CSM_mean%20(0.135%20grid%20size).png)
+![](https://github.com/nalinbendapudi/Robot-Mapping/blob/master/4.%20Continuous_Semantic_CSM_mean%20(0.135%20grid%20size).png)
 
 Continuous Semantic Map
